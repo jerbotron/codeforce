@@ -1,3 +1,5 @@
+#codeforces problem solutions
+
 This repo is a collection of solutions to problems I've worked on at www.codeforces.com
 
 The .png screenshots in each folder shows the result of my solution compiled and ran on the codeforces online tool. It shows the overall run time for all the tests and the memory used.
